@@ -1,0 +1,12 @@
+09589e8f94cff8685e6be72f0c6ddd92 *DESCRIPTION
+a18b6ad21745c796dfceb11b16222817 *NAMESPACE
+a314c97a49a67f1d9d360c1e24abe3b8 *R/ContigencyTables.r
+b7d9b4b5898e541f25b58377871110ce *R/ML.DIF.r
+e447585d6aa2ba25fc93be05e1ae9254 *data/data.adult.rda
+e05bc7bc6c5cfb34c42327045ae3fe38 *data/data.adult.revised.rda
+c07ae89860502a1fac77e7df6edf88ae *data/data.ordinal.rda
+e1cfb524bea7c0d2208e64186a776093 *man/ContigencyTables.Rd
+be0acc9d33b1b1cc49813d52cf295e88 *man/ML.DIF.Rd
+5bafdad2953551339eddad71fe57615f *man/data.adult.Rd
+4009de63d6d79ac9b2a50e6b5f487129 *man/data.adult.revised.Rd
+afeb127c2b08e7cabcfcf3e9dc341369 *man/data.ordinal.Rd
